@@ -11,14 +11,14 @@ See the following URLs for more info:
     http://ftp.mozilla.org/pub/thunderbird/releases/latest/README.txt
     http://ftp.mozilla.org/pub/thunderbird/releases/latest-beta/README.txt</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.pkg.Thunderbird</string>
+    <string>com.github.iutrs.pkg.Thunderbird</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>Thunderbird</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.download.thunderbird</string>
+    <string>com.github.iutrs.download.thunderbird</string>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>Process</key>
