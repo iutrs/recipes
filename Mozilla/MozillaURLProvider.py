@@ -49,7 +49,7 @@ class MozillaURLProvider(Processor):
         },
         "release": {
             "required": False,
-            "default": 'latest',
+            "default": 'esr-latest',
             "description": (
                 "Which release to download. Examples: 'latest', "
                 "'esr-latest', 'beta-latest'. Defaults to 'latest'"),
