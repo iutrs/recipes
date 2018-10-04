@@ -18,7 +18,7 @@ See the following URLs for more info:
         <key>RELEASE</key>
         <string>esr-latest</string>
         <key>LOCALE</key>
-        <string>fr-FR</string>
+        <string>fr</string>
         <key>NAME</key>
         <string>Firefox</string>
         <key>DISABLE_CODE_SIGNATURE_VERIFICATION</key>
